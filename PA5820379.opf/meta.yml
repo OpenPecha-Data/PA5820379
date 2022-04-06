@@ -1,0 +1,19 @@
+id: PBFD46C36
+initial_creation_type: input
+source_metadata:
+  title: Individual works
+  parent: 3. Various collections
+  source: https://sakyalibrary.com
+  bases:
+    dc00:
+      title: རྒྱལ་ཚབ་རྗེའི་ཚད་མ་རིགས་པའི་གཏེར་གྱི་རྣམ་བཤད་ལེགས་པར་བཤད་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+      author: རྒྱལ་ཚབ་རྗེ་དྷརྨ་རིན་ཆེན།
+      base_file: dc00.txt
+      order: 1
+    e111:
+      title: གསང་འདུས་སྟོང་ཐུན་བཞུགས་སོ།།
+      author: ལོ་ཙཱ་བ་འགོས་ཁུག་པ་ལྷས་བཙས།
+      base_file: e111.txt
+      order: 2
+created_at: '2022-04-06T18:07:46.175317'
+last_modified_at: '2022-04-06T18:07:46.175326'
